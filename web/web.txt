@@ -1,0 +1,3 @@
+The Web is a large group of interconnected networks used to facilitate the tranfer of information across the globe. The web is within a large infrastructure known as the internet. The internet is what enables the web to reach across the globe. 
+
+When you click on a link a get request is submitted to the host. Once recieved the host will return the parameters inputed for the get request. An example of this would be clicking a submit button and recieving an alert message stating "HI".
